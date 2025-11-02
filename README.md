@@ -44,7 +44,7 @@ Although the feature importance values are relatively modest (likely due to a sm
 
 ---
 
-### 📊 Results Summary
+### Results Summary
 | Feature                | Importance |
 |------------------------|-------------|
 | Log GDP per capita     | 0.518       |
@@ -53,7 +53,7 @@ Although the feature importance values are relatively modest (likely due to a sm
 
 ---
 
-### 💡 Future Directions
+### Future Directions
 - Explore individual-level data for better prediction power.  
 - Include additional variables (e.g., freedom, corruption perception).  
 - Test model generalization across other regions.
