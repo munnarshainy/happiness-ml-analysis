@@ -1,6 +1,5 @@
-# happiness-ml-analysis
+# Are Citizens of Asian Countries Happier Because of GDP, Generosity, or Dystopian Resilience?  
 
-# Are Citizens of Asian Countries Happier due to GDP, Generosity or Dystopia + Residual?  
 **Author:** Munna R. Shainy  
 **Year:** 2025  
 [Find me on LinkedIn](https://www.linkedin.com/in/munna-rs)
